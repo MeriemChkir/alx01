@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /**
+ * main - First function executed
  * Return: Always 0 (Then Success)
  */
 int main(void)
