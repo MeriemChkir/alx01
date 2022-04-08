@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-
 /**
- * main - First function executed 
+ * main - First executed function
  *
- * Return: always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
