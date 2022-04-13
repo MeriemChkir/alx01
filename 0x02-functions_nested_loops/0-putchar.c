@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 * main - Check description
 * Return: 0.
