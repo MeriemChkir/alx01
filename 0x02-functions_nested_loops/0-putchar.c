@@ -1,16 +1,17 @@
 #include "main.h"
-
 /**
-* main - Check description
-* Return: 0.
+*main - Entry point
+*Return:0
 */
 int main(void)
 {
-char word[8] = "_putchar";
-int i;
-
-for (i = 0; i < 8; i++)
-	_putchar(word[i]);
-_putchar('\n');
+char c[9] = "_putchar";
+int i = 0;
+while (i < 8)
+{
+putchar(c[i]);
+i++;
+}
+putchar('\n');
 return (0);
 }
