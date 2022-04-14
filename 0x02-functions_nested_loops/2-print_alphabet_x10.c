@@ -6,7 +6,7 @@ include "main.h"
 *Return: Nothing.
 */
 
-void print_alphabet_x10(void)
+int main(void)
 {
 	char i;
 	int j;
